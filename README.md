@@ -15,6 +15,7 @@ $ pip3 freeze > requirements.txt
 - **Cách 2:**
 ```
 $ pip install pipreqs
+$ pip3 install pipreqs
 $ pipreqs /path/to/project
 ```
 
