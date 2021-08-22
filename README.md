@@ -1,4 +1,4 @@
-# Uninstall All Library Window && Ubuntu <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+# Uninstall All Library Window && Ubuntu <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
 #### Xem các thư viện đã cài trước đó
 ```
