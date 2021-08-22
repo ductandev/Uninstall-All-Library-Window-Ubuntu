@@ -1,4 +1,4 @@
-# Uninstall-All-Library-Window-Ubuntu
+# Uninstall All Library Window && Ubuntu
 
 - **Xem các thư viện đã cài trước đó**
 ```
