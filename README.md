@@ -7,7 +7,7 @@ $ pip3 list
 ```
 
 ## **Tạo file --> "requirement.txt"**
-- **Cách 1:** Show tất cả thư viện đã cài
+- **Cách 1:** Lấy tất cả thư viện đã cài
 ```
 $ pip freeze > requirements.txt
 $ pip3 freeze > requirements.txt
