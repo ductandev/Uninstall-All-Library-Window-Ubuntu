@@ -7,12 +7,12 @@ $ pip3 list
 ```
 
 ### Tạo file --> "requirement.txt"**
-- **Cách 1:**
+- **Cách 1:** Show tất cả thư viện đã cài
 ```
 $ pip freeze > requirements.txt
 $ pip3 freeze > requirements.txt
 ```
-- **Cách 2:**
+- **Cách 2:** Chỉ lấy thư viện cần thiết của project
 ```
 $ pip install pipreqs
 $ pip3 install pipreqs
