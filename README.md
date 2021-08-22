@@ -6,17 +6,24 @@ $ pip list
 $ pip3 list
 ```
 
-- **Tạo file --> "requirement.txt"**
+### Tạo file --> "requirement.txt"**
+- **Cách 1:**
 ```
 $ pip freeze > requirements.txt
 $ pip3 freeze > requirements.txt
 ```
-- **Xóa từng cái một**
+- **Cách 2:**
+```
+$ pip install pipreqs
+$ pipreqs /path/to/project
+```
+
+- **Xóa từng thư viện một**
 ```
 $ pip uninstall -r requirements.txt
 $ pip3 uninstall -r requirements.txt
 ```
-- **Xóa một lần tất cả**
+- **Xóa một lần tất cả thư viện**
 ```
 $ pip uninstall -r requirements.txt -y
 $ pip3 uninstall -r requirements.txt -y
